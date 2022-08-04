@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Muh. Alex Saputra, frontend developer
 
-[![Linkedin: alex-muhammad](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alex-muhammad-281ab6160/)](https://www.linkedin.com/in/alex-muhammad-281ab6160/)
+[![Linkedin: alex-muhammad](https://img.shields.io/badge/-alexmuhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alex-muhammad-281ab6160/)](https://www.linkedin.com/in/alex-muhammad-281ab6160/)
 ![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca)
 
 ### aboutMe.js
@@ -20,7 +20,3 @@ const alex = {
     }
 };
 ```
-
-<p align="center">
-Check out my repos ⬇️  
-</p>
