@@ -1,14 +1,26 @@
-# Halo semua! 
+## Hi there 👋 Welcome to my GitHub! I'm Muh. Alex Saputra, frontend developer
 
-Perkenalkan nama saya *Muh. Alex Saputra**.
+[![Linkedin: alex-muhammad](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alex-muhammad-281ab6160/)](https://www.linkedin.com/in/alex-muhammad-281ab6160/)
+![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca)
 
-Saya seorang **Web Developer**.
+### aboutMe.js
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alex-muhammad-281ab6160/) ku ya.
+```javascript
+const alex = {
+    pronouns: "he" | "him",
+    code: [Javascript, HTML, CSS, PHP],
+    askMeAbout: ["web dev", "tech", "music", "coffee"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "Tailwindcss", "ReactJS", "NextJS"]
+        },
+        backEnd: {
+            php: ["Laravel"]
+        }        
+    }
+};
+```
 
-<p align="left">
-<a href="https://github.com/AlexMuhammad">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexMuhammad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexMuhammad&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center">
+Check out my repos ⬇️  
 </p>
