@@ -9,10 +9,11 @@
 const alex = {
     pronouns: "he" | "him",
     code: [Javascript, HTML, CSS, PHP],
-    askMeAbout: ["web dev", "tech", "music", "coffee"],
+    askMeAbout: ["web-dev", "tech", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "Tailwindcss", "ReactJS", "NextJS"]
+            css: ["Bootstrap", "TailwindCSS"],
+            js: ["ReactJS", "NextJS"]
         },
         backEnd: {
             php: ["Laravel"]
