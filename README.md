@@ -1,14 +1,9 @@
-## Hi there 👋 Welcome to my GitHub! I'm Muh. Alex Saputra, Let's be rock 🤟!
+<h1 align="center">Hi 👋, I'm Muh. Alex Saputra</h1>
 
-[![Linkedin: alex-muhammad](https://img.shields.io/badge/-alexmuhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alex-muhammad-281ab6160/)](https://www.linkedin.com/in/alex-muhammadCancel changes-281ab6160/)
-![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca)
+- 🌱 I’m currently learning **expressJS, reactJS, nextJS, and laravel**
 
-### aboutMe.js
+- 👨‍💻 More about is available at [https://alexmuhammad.netlify.app/](https://alexmuhammad.netlify.app/)
 
-```javascript
-{
-    javaScript: ["ReactJS", "NextJS"],
-    css: ["TailwindCSS", "Bootstrap", "MaterialUI"],
-    php: ["CI3", "Laravel"],
-}
-```
+- 📫 How to reach me **saputraalex@gmail.com**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexMuhammad&theme=default" alt="alexmuhammad" /></p>
