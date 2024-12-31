@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm Muh. Alex Saputra</h1>
+# Hi there, I'm AlexMuhammad! 👋
 
-- 🌱 I’m currently learning **expressJS, reactJS, nextJS, and laravel**
+### About Me
+I'm a passionate software developer with a keen interest in full-stack development, open-source contributions, and continuous learning. I enjoy solving complex problems and building efficient, scalable applications.
 
-- 👨‍💻 More about is available at [https://alexmuhammad.netlify.app/](https://alexmuhammad.netlify.app/)
+### Skills
+- **Languages:** JavaScript, TypeScript, PHP, Golang (Hopefully👀)
+- **Frameworks:** React, Node.js, Express, Laravel
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, Jenkins
 
-- 📫 How to reach me **saputraalex@gmail.com**
+### Connect with Me
+- **LinkedIn:** [linkedin.com/in/AlexMuhammad](https://www.linkedin.com/in/muh-alex-saputra-281ab6160/)
+- **Email:** saputraalex872@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexMuhammad&theme=default" alt="alexmuhammad" /></p>
+### GitHub Stats
+![AlexMuhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMuhammad&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMuhammad&layout=compact&theme=radical)
+
+---
+
+Feel free to reach out if you have any questions or just want to connect!
