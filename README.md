@@ -3,12 +3,6 @@
 ### About Me
 I'm a passionate software developer with a keen interest in full-stack development, open-source contributions, and continuous learning. I enjoy solving complex problems and building efficient, scalable applications.
 
-### Skills
-- **Languages:** JavaScript, TypeScript, PHP, Golang (Hopefully👀)
-- **Frameworks:** React, Node.js, Express, Laravel
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Docker, Jenkins
-
 ### Connect with Me
 - **LinkedIn:** [linkedin.com/in/AlexMuhammad](https://www.linkedin.com/in/muh-alex-saputra-281ab6160/)
 - **Email:** saputraalex872@gmail.com
